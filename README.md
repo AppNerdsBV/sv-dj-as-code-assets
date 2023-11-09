@@ -1,8 +1,8 @@
-
+![orbit](https://github.com/glentiktak/DJ-as-Code/assets/11195748/4def8e60-0745-434e-9660-6fe51be6a5e0)
 
 # DJ
 
-![orbit](https://github.com/glentiktak/DJ-as-Code/assets/11195748/7cc3016b-0096-42ba-9b88-1d9be54fb8ab)
+
 
 ![test 2](https://github.com/glentiktak/DJ-as-Code/assets/11195748/1b38baaa-9416-4537-b268-c4829b3831db)
 
