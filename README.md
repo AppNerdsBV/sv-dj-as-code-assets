@@ -1,6 +1,6 @@
-# DJ-as-Code
+![test](https://github.com/glentiktak/DJ-as-Code/assets/11195748/7eee7010-ae05-4f2c-9f30-c58df6e3dd86)# DJ-as-Code
 
-<svg fill="none" viewBox="0 0 600 300" width="600" height="300" xmlns="http://www.w3.org/2000/svg">
+![Uploading te<svg fill="none" viewBox="0 0 600 300" width="600" height="300" xmlns="http://www.w3.org/2000/svg">
   <foreignObject width="100%" height="100%">
     <div xmlns="http://www.w3.org/1999/xhtml">
       <style>
@@ -65,4 +65,4 @@
       </div>
     </div>
   </foreignObject>
-</svg>
+</svg>st.svg…]()
