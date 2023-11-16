@@ -1,6 +1,4 @@
-<p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/glentiktak/DJ-as-Code/main/sv-banner.svg">
-</p>
+
 
 
 
