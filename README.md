@@ -1,4 +1,7 @@
-![sv-banner2svg](https://github.com/glentiktak/DJ-as-Code/assets/11195748/3810a365-a582-421b-acdd-c73c45b8cab8)
+![sv-banner3](https://github.com/glentiktak/DJ-as-Code/assets/11195748/7cd5d1be-146d-46e5-93b1-b97a6c04e474)
+![sv-banner4](https://github.com/glentiktak/DJ-as-Code/assets/11195748/5d8d891d-1f3c-4adc-b160-0675ff9e26db)
+![sv-banner5](https://github.com/glentiktak/DJ-as-Code/assets/11195748/5010aaa9-2475-42da-93fe-ca38918bbc17)
+
 
 
 asdkjf halksdfjh lkasdjhf lkasjdhf lkasjdhf lkasjdfh lkasjdhf kasjdhf klasjdhf klasdjfh lkasjdhf kasjdhf lkasjdhf lkasjdhf lkasjdhf lkasjdfh lkasdjhf alksdjfh laksdjfh lkasdjhf alksdjfhg laksdjfh klasdjhf asdf
