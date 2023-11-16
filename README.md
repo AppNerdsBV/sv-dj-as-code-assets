@@ -2,6 +2,8 @@
   <img width="100%" src="https://raw.githubusercontent.com/glentiktak/DJ-as-Code/main/sv-banner-blue.svg">
 </p>
 
+<div align="center">
+  
 # Welcome to Software Vrienden
 | Item              | In Stock | Price |
 | :---------------- | :------: | ----: |
@@ -26,3 +28,5 @@ puts markdown.to_html
 
 > [!WARNING]
 > Critical content demanding immediate user attention due to potential risks.
+
+</div>
