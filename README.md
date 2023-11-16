@@ -1,4 +1,4 @@
-![svgviewer-output (1)](https://github.com/glentiktak/DJ-as-Code/assets/11195748/4f5e07eb-7e28-4ce2-8cea-3298db9e6109)<div align="center" style="width:100%;">
+<div align="center" style="width:100%;">
   
 ![svgviewer-output](https://github.com/glentiktak/DJ-as-Code/assets/11195748/3c5d9810-5222-4ed3-89c1-98ebc7539a8f)
 
