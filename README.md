@@ -1,6 +1,7 @@
-![sv-banner3](https://github.com/glentiktak/DJ-as-Code/assets/11195748/7cd5d1be-146d-46e5-93b1-b97a6c04e474)
-![sv-banner4](https://github.com/glentiktak/DJ-as-Code/assets/11195748/5d8d891d-1f3c-4adc-b160-0675ff9e26db)
-![sv-banner5](https://github.com/glentiktak/DJ-as-Code/assets/11195748/5010aaa9-2475-42da-93fe-ca38918bbc17)
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100">
+  <!-- Your SVG content here -->
+  <circle cx="50" cy="50" r="40" fill="green" />
+</svg>
 
 
 
