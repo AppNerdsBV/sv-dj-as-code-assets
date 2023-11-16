@@ -1,6 +1,5 @@
-![sv-banner](https://github.com/glentiktak/DJ-as-Code/assets/11195748/201241c9-9944-4115-ba6f-89c9a9591625)
 
-
+![sv-banner](https://github.com/glentiktak/DJ-as-Code/assets/11195748/f3e9e730-2ab5-4ca4-8379-398db673fa41)
 
 
 asdkjf halksdfjh lkasdjhf lkasjdhf lkasjdhf lkasjdfh lkasjdhf kasjdhf klasjdhf klasdjfh lkasjdhf kasjdhf lkasjdhf lkasjdhf lkasjdhf lkasjdfh lkasdjhf alksdjfh laksdjfh lkasdjhf alksdjfhg laksdjfh klasdjhf asdf
