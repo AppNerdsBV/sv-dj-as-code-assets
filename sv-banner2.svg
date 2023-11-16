@@ -1,18 +1,18 @@
-<svg fill="none" width="100%" height="200px" xmlns="http://www.w3.org/2000/svg">
+<svg fill="none" width="100%" height="120px" xmlns="http://www.w3.org/2000/svg">
   <foreignObject width="100%" height="100%">
     <div xmlns="http://www.w3.org/1999/xhtml">
       <style>
         .background {
           --color-secondary: #F8503C;
           --color-tertiary: #F7913E;
-
+        
           background: linear-gradient(
             -45deg,
             var(--color-secondary),
             var(--color-tertiary)
           );
         
-          height: 200px;
+          height: 120px;
           display: flex;
           justify-content: center;
           align-items: center;
