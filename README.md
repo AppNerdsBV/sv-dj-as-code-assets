@@ -2,9 +2,8 @@
   <img width="100%" src="https://raw.githubusercontent.com/glentiktak/DJ-as-Code/main/sv-banner.svg">
 </p>
 
-<p align="center">
-  #Welcome to Software Vrienden
-</p>
+#Welcome to Software Vrienden
+
 
 
 
