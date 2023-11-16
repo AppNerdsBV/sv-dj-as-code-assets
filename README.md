@@ -1,3 +1,5 @@
+![sv-banner](https://github.com/glentiktak/DJ-as-Code/assets/11195748/3de194ca-3692-465f-9803-51cf92d39ae6)
+
 ![sv-banner](https://github.com/glentiktak/DJ-as-Code/assets/11195748/f2323215-0a50-4b10-a26d-99c2163a41c9)
 
 
