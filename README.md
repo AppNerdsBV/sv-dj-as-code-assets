@@ -7,7 +7,7 @@
 </p>
 
 
-# Welcome to Software Vrienden
+# Welcome to Software Vrienden!
 | Item              | In Stock | Price |
 | :---------------- | :------: | ----: |
 | Python Hat        |   True   | 23.99 |
