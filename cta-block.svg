@@ -1,7 +1,9 @@
-<svg fill="none" width="100%" height="100%" xmlns="http://www.w3.org/2000/svg">
+<svg fill="none" width="100%" height="1000" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
     <div xmlns="http://www.w3.org/1999/xhtml">
       <style>
         .background {
+          line-height: 24px;
           color: #E6EDF3;
           font-family: -apple-system, "system-ui", "Segoe UI", "Noto Sans", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
           border-radius: 6px;
@@ -23,4 +25,5 @@
         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
       </div>
     </div>
+  </foreignObject>
 </svg>
