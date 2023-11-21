@@ -22,6 +22,7 @@
           display: flex;
           justify-content: left;
           align-items: center;
+          font-family: -apple-system, "system-ui", "Segoe UI", "Noto Sans", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
         }
 
         .flex {
