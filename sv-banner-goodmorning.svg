@@ -42,7 +42,7 @@
           <path id="path">
             <animate attributeName="d" from="m0,60 h0" to="m0,60 h1500" dur="8s" begin="0s" repeatCount="indefinite"/>
           </path>
-          <text font-size="28" font-family="Cabin" fill="white" font-weight="500">
+          <text font-size="28" fill="white" font-weight="500">
         	<textPath xlink:href="#path">Goodmorning!</textPath>
           </text>
         </svg>
