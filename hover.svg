@@ -1,0 +1,12 @@
+<svg id="svg1" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="200" height="200" viewBox="0 0 100 100">
+  <defs>
+    <pattern id="ptn1" x="0" y="0" width="5" height="5" patternUnits="userSpaceOnUse">
+      <circle cx="3" cy="3" r="2" fill="none" stroke="grey" stroke-width="0.5">
+        <animate attributeName="fill" values="white;dodgerblue" begin="path1.mouseover" dur="0.3s" fill="freeze" />
+        <animate attributeName="fill" values="dodgerblue;white" begin="path1.mouseout" dur="0.3s" fill="freeze" />
+      </circle>
+    </pattern>
+  </defs>
+
+  <path id="path1" d="m10 50 v-5h5 v-5h5 v-5h5 v-5h5 v-5h5 v5h5 v5h5 v5h5 v5h5 v5h-45 " stroke="none" fill="url(#ptn1)" />
+</svg>
