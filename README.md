@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/glentiktak/DJ-as-Code/main/sv-banner-blue.svg">
+  <img width="100%" src="https://raw.githubusercontent.com/glentiktak/DJ-as-Code/main/sv-banner-goodmorning.svg">
 </p>
   
 # Welcome to Software Vrienden
