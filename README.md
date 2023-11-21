@@ -31,3 +31,7 @@ puts markdown.to_html
 
 > [!WARNING]
 > Critical content demanding immediate user attention due to potential risks.
+
+<p align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/glentiktak/DJ-as-Code/main/cool.svg">
+</p>
