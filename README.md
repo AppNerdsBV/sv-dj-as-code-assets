@@ -1,10 +1,11 @@
 <p align="center">
   <img width="100%" src="https://raw.githubusercontent.com/glentiktak/DJ-as-Code/main/sv-banner-goodmorning.svg">
 </p>
-
+<a href="https://softwarevrienden.nl">
 <p align="center">
   <img width="100%" src="https://raw.githubusercontent.com/glentiktak/DJ-as-Code/main/cta-block.svg">
 </p>
+</a>
 
 
 # Welcome to Software Vrienden!
