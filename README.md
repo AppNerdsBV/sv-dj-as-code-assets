@@ -6,6 +6,9 @@
     <img width="100%" src="https://raw.githubusercontent.com/glentiktak/DJ-as-Code/main/cta-block.svg">
   </p>
 </a>
+<p align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/glentiktak/DJ-as-Code/main/hover.svg">
+</p>
 
 # Welcome to Software Vrienden!
 | Item              | In Stock | Price |
