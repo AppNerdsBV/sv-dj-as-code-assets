@@ -3,7 +3,7 @@
     <div xmlns="http://www.w3.org/1999/xhtml">
       <style>
         .logo-container {
-          padding-right: 12px;
+          padding-right: 4px;
         }
         
         .background {
