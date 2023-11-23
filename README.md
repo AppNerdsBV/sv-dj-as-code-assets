@@ -27,7 +27,40 @@ C                  👍                   █░░░░░░░░░░░�
 Bash               👍                   █░░░░░░░░░░░░░░░░░░░░░░░░   01 %
 ```
 
-<h2> OPEN SOURCE! <img src="https://media.giphy.com/media/qyVGf98J1DJDy/giphy.gif" height="35px"> </h1>
+<br></br>
+
+<p>
+  <img width="100%" height="100px" src="https://raw.githubusercontent.com/glentiktak/DJ-as-Code/main/waves.svg">
+</p>
+
+<h2> Hall of fame <img src="https://media.giphy.com/media/xUPGcpnieVnGZQ5IAw/giphy.gif" height="35px"> </h2>
+
+```javascript
+#define TRUE FALSE
+//Happy debugging suckers
+```
+
+```c
+// Do you know how expensive a function call is?
+const int sizeof_int = sizeof( int );
+```
+
+<h2> SV merch! <img src="https://media.giphy.com/media/MYyZGIE0K2C66ql9kV/giphy.gif" height="35px"> </h2>
+
+| Item              | In Stock | Price |
+| :---------------- | :------: | ----: |
+| Python Hat        |   True   | 23.99 |
+| SQL Hat           |   True   | 23.99 |
+| Codecademy Tee    |  False   | 19.99 |
+| Codecademy Hoodie |  False   | 42.99 |
+
+<br></br>
+
+<h1> Cool elements </h1>
+
+<br></br>
+
+<h2> Open source! <img src="https://media.giphy.com/media/qyVGf98J1DJDy/giphy.gif" height="35px"> </h2>
 
 ```
   ____                  ____                      
@@ -45,20 +78,9 @@ Bash               👍                   █░░░░░░░░░░░�
 Lprem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 ```
 
-| Item              | In Stock | Price |
-| :---------------- | :------: | ----: |
-| Python Hat        |   True   | 23.99 |
-| SQL Hat           |   True   | 23.99 |
-| Codecademy Tee    |  False   | 19.99 |
-| Codecademy Hoodie |  False   | 42.99 |
-
 The background color is `#ffffff` for light mode and `#000000` for dark mode.
 
-```ruby
-require 'redcarpet'
-markdown = Redcarpet.new("Hello World!")
-puts markdown.to_html
-```
+
 
 > [!NOTE]
 > Highlights information that users should take into account, even when skimming.
@@ -71,8 +93,4 @@ puts markdown.to_html
 
 <p align="center">
   <img width="100%" src="https://raw.githubusercontent.com/glentiktak/DJ-as-Code/main/cool.svg">
-</p>
-
-<p>
-  <img width="100%" src="https://raw.githubusercontent.com/glentiktak/DJ-as-Code/main/waves.svg">
 </p>
