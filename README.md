@@ -2,6 +2,10 @@
   <img width="100%" src="https://raw.githubusercontent.com/glentiktak/DJ-as-Code/main/sv-banner-goodmorning.svg">
 </p>
 
+<p>
+  <img width="200px" height="100px" align="right" src="https://raw.githubusercontent.com/glentiktak/DJ-as-Code/main/flags.svg">
+</p>
+
 <h1> Welcome to Software Vrienden! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 
 ```text
