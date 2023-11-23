@@ -47,18 +47,16 @@ const int sizeof_int = sizeof( int );
 
 <h2> SV merch! <img src="https://media.giphy.com/media/MYyZGIE0K2C66ql9kV/giphy.gif" height="35px"> </h2>
 
-| Item              | In Stock | Price |
-| :---------------- | :------: | ----: |
-| Python Hat        |   True   | 23.99 |
-| SQL Hat           |   True   | 23.99 |
-| Codecademy Tee    |  False   | 19.99 |
-| Codecademy Hoodie |  False   | 42.99 |
+| Item | Description | Price | Image |
+| :--- | :--- | :--- | :---: |
+| Rocket man plushie | Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquipe.     | 23.99 | <img src="https://raw.githubusercontent.com/glentiktak/DJ-as-Code/main/man-rocket.png" width="135px">      |
+| Rocket man plushie | Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquipe.     | 23.99 | <img src="https://raw.githubusercontent.com/glentiktak/DJ-as-Code/main/man-rocket.png" width="135px">      |
+| Rocket man plushie | Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquipe.     | 19.99 | <img src="https://raw.githubusercontent.com/glentiktak/DJ-as-Code/main/man-rocket.png" width="135px">      |
+| Rocket man plushie | Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquipe.     | 42.99 | <img src="https://raw.githubusercontent.com/glentiktak/DJ-as-Code/main/man-rocket.png" width="135px">      |
 
 <br></br>
 
 <h1> Cool elements </h1>
-
-<br></br>
 
 <h2> Open source! <img src="https://media.giphy.com/media/qyVGf98J1DJDy/giphy.gif" height="35px"> </h2>
 
@@ -75,7 +73,7 @@ const int sizeof_int = sizeof( int );
 ```
 
 ```
-Lprem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 ```
 
 The background color is `#ffffff` for light mode and `#000000` for dark mode.
