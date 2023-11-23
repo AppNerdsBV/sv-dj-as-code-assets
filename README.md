@@ -37,3 +37,7 @@ puts markdown.to_html
 <p align="center">
   <img width="100%" src="https://raw.githubusercontent.com/glentiktak/DJ-as-Code/main/cool.svg">
 </p>
+
+<p>
+  <img width="100%" src="https://raw.githubusercontent.com/glentiktak/DJ-as-Code/main/waves.svg">
+</p>
