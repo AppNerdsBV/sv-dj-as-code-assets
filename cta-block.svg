@@ -1,16 +1,11 @@
-<svg fill="none" width="100%" height="100%" overflow="visible" xmlns="http://www.w3.org/2000/svg">
-  <foreignObject width="100%" height="100%" overflow="visible">
+<svg fill="none" width="100%" height="200px" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%" overflow="auto">
     <div xmlns="http://www.w3.org/1999/xhtml">
-      <style>
-        body {
-          height: 100%;
-        }
-        
+      <style>    
         .background {
           line-height: 24px;
           color: #E6EDF3;
           font-family: -apple-system, "system-ui", "Segoe UI", "Noto Sans", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
-          border-radius: 6px;
           background-color: #161B22;
           padding: 16px;
           display: flex;
